@@ -39,7 +39,7 @@ h2::before{
 }
 
 .contents p:nth-of-type(2)::first-letter{
-  font-weight: 100px;
+  font-weight: bold;
 }
 
 .images{
